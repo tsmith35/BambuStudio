@@ -1,7 +1,6 @@
 Build
 Build.bat
 /build/
-/build2022/
 deps/build
 MYMETA.json
 MYMETA.yml
@@ -24,7 +23,6 @@ deps/build-linux/*
 install_*
 build_*/
 SVG
-doc/
-**/process_full/
-**/machine_full/
-**/filament_full/
+Dockerfile
+DockerBuild.sh
+DockerRun.sh
